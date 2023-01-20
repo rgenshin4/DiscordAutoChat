@@ -3,7 +3,7 @@
 
 # TUTORIAL FOR WINDOWS
   1. download and install python
-  2. download or git clone https://github.com/mityoe860/bot-discord-auto-random-chat
+  2. download or git clone https://github.com/rgenshin4/DiscordAutoChat
   3. input your token discord in Config.json file
   4. open install.bat
   5. open start.bat
@@ -31,3 +31,4 @@
   2. Auto delete messages only delete when above your message is your own message. if you don't want like it, you can delete "Limit=1" in line 87 file main.py (it will make your messages instantly delete)
   
 <h2 align="center">!!! DWYOR !!!</h2>
+#thanksMITO
