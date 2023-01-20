@@ -16,7 +16,7 @@
   3. input this command in termux:<br>
      <q>apt update && apt upgrade</q><br>
      <q>termux-setup-storage</q><br>
-     <q>git clone https://github.com/mityoe860/bot-discord-auto-random-chat</q><br>
+     <q>git clone https://github.com/rgenshin4/DiscordAutoChat </q><br>
      <q>pkg install python3</q><br>
      <q>pip install -U discord==1.7.3</q><br>
      <q>pip install -U discord.py==1.7.3</q><br>
